@@ -1,5 +1,12 @@
 ## Welcome to GitHub Pages
 
+# Jason Abendroth's First CS193 Homework
+
+My favortie things about CS193:
+- Helps to learn useful programming tools and resources
+- Not as difficult/stressful as CS180, but is still important
+- Neither my PSO nor my lecture are really early in the morning
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
