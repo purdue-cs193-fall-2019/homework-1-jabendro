@@ -2,7 +2,7 @@
 
 # Jason Abendroth's First CS193 Homework
 
-My favortie things about CS193:
+My favorite things about CS193:
 - Helps to learn useful programming tools and resources
 - Not as difficult/stressful as CS180, but is still important
 - Neither my PSO nor my lecture are really early in the morning
